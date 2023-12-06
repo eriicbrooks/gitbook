@@ -1,43 +1,38 @@
-# Template page
+---
+cover: >-
+  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0cmFkaW5nfGVufDB8fHx8MTcwMTkwMzIzMXww&ixlib=rb-4.0.3&q=85
+coverY: 40
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% hint style="info" %}
-Duplicate this page for every day you want to track.
-{% endhint %}
+# Natural Gas Markets
 
-## Today's stuff
+***
 
-<table data-header-hidden><thead><tr><th width="80" data-type="checkbox"></th><th width="120" data-type="select">Type</th><th>Action</th></tr></thead><tbody><tr><td>false</td><td></td><td>A meeting I'm attending</td></tr><tr><td>false</td><td></td><td>A task I should do</td></tr></tbody></table>
+### [Scheduling](natural-gas-markets/scheduling/)
 
-## Notes & ideas
+### [Trading](natural-gas-markets/trading.md)
 
-<details>
+### [Prices](natural-gas-markets/prices.md)
 
-<summary>Notes: A meeting I’m attending</summary>
+### [Supply and demand](natural-gas-markets/supply-and-demand.md)
 
-Start taking notes…
+###
 
-</details>
-
-## How was the day?
-
-<details>
-
-<summary>🧠 Mood tracking</summary>
-
-Start taking notes…
-
-</details>
-
-<details>
-
-<summary>💡 Observations</summary>
-
-Start taking notes…
-
-</details>
-
-{% hint style="info" %}
-**GitBook tip:** Use the **rating** column in a table to build a super simple habit-tracking section.
-{% endhint %}
-
-<table data-header-hidden><thead><tr><th width="120" data-type="rating" data-max="5"></th><th>Task</th></tr></thead><tbody><tr><td>4</td><td>Sleep</td></tr><tr><td>3</td><td>Work/life balance</td></tr><tr><td>3</td><td>Creativity</td></tr><tr><td>5</td><td>Fitness</td></tr></tbody></table>
+* [scheduling](natural-gas-markets/scheduling/ "mention")
+* [trading.md](natural-gas-markets/trading.md "mention")
+* [prices.md](natural-gas-markets/prices.md "mention")
+* [supply-and-demand.md](natural-gas-markets/supply-and-demand.md "mention")
