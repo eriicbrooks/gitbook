@@ -8,7 +8,9 @@
   * [Trading](natural-gas-markets/trading.md)
   * [Prices](natural-gas-markets/prices.md)
   * [Supply and demand](natural-gas-markets/supply-and-demand.md)
-* [Home](home.md)
+* [Locations](locations.md)
+* [Home](home/README.md)
+  * [Page 8](home/page-8.md)
 
 ## blog
 
