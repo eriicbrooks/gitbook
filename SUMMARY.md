@@ -8,17 +8,14 @@
   * [Trading](natural-gas-markets/trading.md)
   * [Prices](natural-gas-markets/prices.md)
   * [Supply and demand](natural-gas-markets/supply-and-demand.md)
-* [Locations](locations.md)
-* [Home](home/README.md)
-  * [Page 8](home/page-8.md)
+  * [Locations](natural-gas-markets/locations/README.md)
+    * [us\_canada\_gas](natural-gas-markets/locations/us\_canada\_gas.md)
 
 ## blog
 
-* [Page 5](blog/page-5.md)
-* [Page 6](blog/page-6.md)
-* [Page 4](blog/page-4.md)
-* [Page 1](blog/page-1.md)
-* [💤 Page](blog/page.md)
-* [Page 2](blog/page-2.md)
-* [Page 3](blog/page-3.md)
-* [Page 7](blog/page-7.md)
+* [Page](blog/page.md)
+
+***
+
+* [Import](import/README.md)
+  * [us\_canada\_gas](import/us\_canada\_gas.md)

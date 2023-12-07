@@ -1,4 +1,4 @@
-# 💤 Page
+# Page
 
 {% tabs %}
 {% tab title="Home" %}

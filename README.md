@@ -1,7 +1,7 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0cmFkaW5nfGVufDB8fHx8MTcwMTkwMzIzMXww&ixlib=rb-4.0.3&q=85
-coverY: 40
+  https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0cmFkaW5nfGVufDB8fHx8MTcwMTk3NjcyOXww&ixlib=rb-4.0.3&q=85
+coverY: -249
 layout:
   cover:
     visible: true
